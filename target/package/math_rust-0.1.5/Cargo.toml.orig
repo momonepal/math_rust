@@ -1,0 +1,13 @@
+[package]
+name = "math_rust"
+license = "MIT"
+version = "0.1.5"
+authors = ["mohit"]
+edition = "2021"
+description = "A Math library for vectors."
+categories = ["mathematics", "algorithms"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8"

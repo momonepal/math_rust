@@ -1,0 +1,1 @@
+/home/runner/FoolishCrate/target/package/math_rust-0.1.5/target/debug/math_rust: /home/runner/FoolishCrate/target/package/math_rust-0.1.5/src/lib.rs /home/runner/FoolishCrate/target/package/math_rust-0.1.5/src/main.rs
